@@ -4,6 +4,9 @@ This projects is a data analysis of the various datasets. The goal of the projec
 ## Project Description
 This project analyzes a various dataset. The project uses Python and it's libraries to solve the problem. The project faced the many blockers and challenges which were successfully tackled by me.
 
+## Datasets
+Link to datasets are present inside each project notebook.
+
 ## Work I have done on this project
 ### I have done the following work on this project:
 1. I have cleaned and processed the data.
